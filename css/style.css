@@ -39,6 +39,10 @@ header {
     align-items: center;
 }
 
+.burger_icon{
+    display: none;
+}
+
 /* section1 */
 .section1 {
     width: 90%;

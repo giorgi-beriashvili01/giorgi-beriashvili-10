@@ -48,9 +48,12 @@
 
     .section3{
         padding: 24px;
-
-        
+  
     }
+    .section3_left{
+        margin-bottom: 29px;
+    }
+
     .section3_right{
         gap: 29px;
         display: flex;
